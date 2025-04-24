@@ -1,0 +1,14 @@
+Versiones de Home Assistant:
+    https://www.home-assistant.io/installation/
+
+Formas de instalar Home Assistant:
+    https://www.home-assistant.io/installation/
+
+Instrucciones para instalar Home Assistant en Docker:
+    https://github.com/home-assistant/supervised-installer?tab=readme-ov-file
+
+DuckDNS:
+    https://www.duckdns.org/
+
+
+
