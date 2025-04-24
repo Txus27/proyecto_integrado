@@ -10,5 +10,9 @@ Instrucciones para instalar Home Assistant en Docker:
 DuckDNS:
     https://www.duckdns.org/
 
+Configurar dispositivos Tasmota:
+    https://www.home-assistant.io/integrations/tasmota
+    https://www.youtube.com/watch?v=rHhRSsiaxcI (video explicativo)
+
 
 
