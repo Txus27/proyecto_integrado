@@ -1,0 +1,2 @@
+Proyecto integrado - Hogar inteligente con Home Assistant Supervised en Docker - Juan Luis Sánchez Sánchez:
+    https://docs.google.com/document/d/1uIoMDP2pCE7Gr2SSclXtp9QwwXrbB0uQ8NFPtfeJY1k/edit?usp=sharing
