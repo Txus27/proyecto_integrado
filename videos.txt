@@ -4,5 +4,5 @@ Video de muestra de la integración de la cámara en HA:
 Prueba de funcionamiento enchufe Tasmota una vez integrado en Home Assistant y cómo funciona desde la versión web:
     https://youtu.be/6wV0FwDpR1I
 
-Prueba de funcionamiento completa
-https://youtube.com/shorts/KBUjDL_Rofc?si=OdhssaKw1C070q7j
+Exposición proyecto integrado de Home Assistant Supervised
+https://youtu.be/LBMr8SEeg70?si=nOTnmsH1awF5_CjA
